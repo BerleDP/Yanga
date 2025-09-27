@@ -5,6 +5,7 @@
 - Djelissa Cesar
 - Daphenot Saint-Martin
 
+# App description
 C'est une application d'E-commerce conçu pour des services de vente et d'achat.
 
 # User story
